@@ -1,0 +1,5 @@
+{
+  "name": "Öğrenen AI (SQL Simülasyonu)",
+  "description": "API olmadan, tarayıcı hafızasında SQL benzeri bir yapı kullanarak kendi kendine öğrenen, matematik ve sohbet yeteneği olan React uygulaması.",
+  "requestFramePermissions": []
+}
